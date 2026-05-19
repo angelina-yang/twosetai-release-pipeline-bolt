@@ -121,6 +121,18 @@ Below the 3 combo cards, sticky "Approve & send to editor →" button in dark in
 All state in React useState, no backend, no login. Make it feel like a real internal tool a creator would screenshot and tweet.
 ```
 
+## What to improve / next steps
+
+This is the prototype. To turn it into the production tool I actually use, here's what's left to polish:
+
+- Connect to Supabase so approvals persist across sessions
+- Wire my producer's login (magic link auth)
+- Auto-sync approved thumbnails to my designer's folder
+- Hook into the AI tool that generates the plans (Cowork) so new guests appear in the Kanban automatically
+- Replace the inline-styled thumbnail placeholders with real production thumbnails for every guest (the way Steven Bartlett's are rendered here)
+
+Bolt nailed the hard part (the React Kanban scaffolding) in one prompt. Everything above is real engineering on top.
+
 ## Local dev
 
 ```bash
