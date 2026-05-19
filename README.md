@@ -8,7 +8,7 @@ Built in **one** [@boltdotnew](https://x.com/boltdotnew) prompt to replace a sca
 
 - **Live app:** https://twosetai-release-pip-x3pi.bolt.host
 - **YouTube podcast it's built for:** [TwoSetAI](https://youtube.com/@TwoSetAI) — interview show with AI founders
-- **Author:** [@hi_angelinayang](https://x.com/hi_angelinayang)
+- **Author:** Angelina Yang — [X](https://x.com/hi_angelinayang) · [LinkedIn](https://www.linkedin.com/in/hey-angelina/)
 
 ---
 
